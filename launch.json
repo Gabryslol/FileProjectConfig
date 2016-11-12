@@ -1,0 +1,13 @@
+{
+    "version": "2.2.2",
+    "configurations": [
+        {
+            "name": "Attach",
+            "type": "chrome",
+            "request": "attach",
+            "port": 3000,
+            "address": "localhost",
+            "webRoot": "${workspaceRoot}"
+        }
+    ]
+}
