@@ -1,0 +1,17 @@
+### JetBrains ###
+
+.idea/
+
+### Library ###
+
+lib/
+
+### Plugin Configurator ###
+
+.editorconfig
+.eslintrc.json
+typings/
+jsconfig.json
+typings.json
+.vscode/
+node_modules/

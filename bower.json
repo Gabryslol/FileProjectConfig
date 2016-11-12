@@ -1,0 +1,8 @@
+{
+   "name": "try me right",
+   "version": "1.0.0",
+   "dependencies": {
+      "font-awesome": "latest",
+      "animate.css": "latest"
+   }
+}
